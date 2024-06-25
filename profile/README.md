@@ -29,7 +29,7 @@
 - **Account Login**: Different account for different preferences? Why not?
 
 ## Installation
-To start using this app, please download it at the following link [Eventure](https://drive.google.com/drive/home)
+To start using this app, please download it at the following link [Eventure](https://storage.googleapis.com/eventure-bucket-2024/apk-release/eventure.apk)
 
 ## Tech
 **Cloud Computing**
